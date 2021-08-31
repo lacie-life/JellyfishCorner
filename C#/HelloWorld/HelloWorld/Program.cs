@@ -10,7 +10,13 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            string charactorName = "Laice";
+
+            int characterAge = 100;
+
             Console.WriteLine("Hello World");
+            Console.WriteLine("My name is: " + charactorName);
+            Console.WriteLine("I'm "+ characterAge + "years old.");
 
             Console.ReadLine();
         }
