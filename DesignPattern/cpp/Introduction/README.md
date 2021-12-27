@@ -1,6 +1,8 @@
 # Chapter 1 take note
 
-## The SOLID Design Principles
+## Important Concept
+
+### The SOLID Design Principles
 
 - Single Responsibility Principle (SRP)
   
