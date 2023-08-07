@@ -1,2 +1,0 @@
-# WebDeveloperTraining
-Something something
