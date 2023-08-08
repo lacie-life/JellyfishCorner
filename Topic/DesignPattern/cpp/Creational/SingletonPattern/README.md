@@ -1,0 +1,1 @@
+# You should only have one instance of a particular component in your application

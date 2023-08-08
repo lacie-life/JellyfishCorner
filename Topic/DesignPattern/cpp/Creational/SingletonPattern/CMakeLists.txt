@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.2)
+
+# Set the project name
+project (singleton-pattern)
+
+# Add an executable
+add_executable(${PROJECT_NAME} main.cpp)
