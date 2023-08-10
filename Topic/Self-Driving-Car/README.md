@@ -30,5 +30,23 @@
 
     In level 5 autonomy, the vehicle will be completely autonomous. Here, no human driver is required; the vehicle controls all the critical tasks such as steering, the brakes, and the pedals. It will monitor the environment and identify and react to all unique driving conditions such as traffic jams.
 
+## Common computer vision tasks in self-driving cars
+
+- <b>Lane detection: </b> This is useful for driving correctly, as the car needs to know which side of the road it is on. Lane detection also makes it easy to follow a curved road.
+
+- <b>Road sign recognition:</b> The system must recognize road signs and be able to act accordingly.
+
+- <b>Pedestrian detection:</b> The system must detect pedestrians as it drives through a scene. Whether an object is a pedestrian or not, the system needs to know so that it can put more emphasis on not hitting pedestrians. It needs to drive more carefully around pedestrians than other objects that are less important, such as litter.
+
+- <b>Traffic light detection:</b> The vehicle needs to detect and recognize traffic lights so that, just like human drivers, it can comply with road rules.
+
+- <b>Car detection:</b> The presence of other cars in the environment must also be detected.
+
+- <b>Face recognition:</b> There is a need for an SDC to identify and recognize the driver's face, other people inside the car, and perhaps even those who are outside it. If the vehicle is connected to a specific network, it can match those faces against a database to recognize car thieves.
+
+- <b>Obstacle detection:</b> Obstacles can be detected using other means, such as ultrasound, but the car also needs to use its camera systems to identify any obstacles.
+
+- <b>Vehicle action recognition:</b> The vehicle should know how to interact with other drivers since autonomous cars will drive alongside non-autonomous cars for many years to come.
+
 
 
