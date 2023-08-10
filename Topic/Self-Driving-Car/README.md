@@ -48,5 +48,46 @@
 
 - <b>Vehicle action recognition:</b> The vehicle should know how to interact with other drivers since autonomous cars will drive alongside non-autonomous cars for many years to come.
 
+## Chanllegens in computer vision tasks
+
+- <b>Viewpoint variation:</b> The same object can appear differently when viewed from different angles. For example, a car can appear differently when viewed from the front, back, or side.
+
+- <b>Illumination conditions:</b> The same object can appear differently when viewed under different lighting conditions. For example, a car can appear differently when viewed in the day or at night.
+
+- <b>Scale variation:</b> The same object can appear differently when viewed at different scales. For example, a car can appear differently when viewed from a distance or close up.
+
+- <b>Deformation:</b> The same object can appear differently when viewed under different deformations. For example, a car can appear differently when viewed from the front or side.
+
+- <b>Occlusion:</b> The same object can appear differently when viewed under different occlusions. For example, a car can appear differently when viewed from the front or side.
+
+- <b>Object variation:</b> Object variation is all about the differences in the structure of the object. For example, we can classify all the objects in the following photos as chairs, but for a machine learning algorithm, it will be difficult to classify all the different possible labels for the various types of chair.
+
+## Artificial eyes versus human eyes
+
+|Self-Driving Car Requirement|Human Eye|
+|---|---|
+|It requires 360-degree coverage around the vehicle.|It has 3D vision for 130 degrees of the field of view, resulting in a blind spot. Humans can turn their heads and bodies to mitigate this.|
+|It must identify 3D object that are close to and far from the vehicle|The human eye's high resolution extends only to the central 50 degrees in the field of. Outside the central zone, perception drops.|
+|It mush process real-time data|It the human eye, the frame is good in the central zone and poor in the peripheries.|
+|It should be able to work well in all lighting and weather conditions.|Human eyes perform well in various lighting conditions, but to see in the dark, human eyes depend on headlights in cars.|
+
+## Sensors
+
+- <b>Camera:</b> Cameras are the most important sensors in self-driving cars. They are used to capture images of the environment around the vehicle. Cameras are used for lane detection, traffic sign detection, pedestrian detection, and so on. Cameras are also used for object detection and classification.
+
+- <b>LiDAR:</b> LiDAR is a sensor that uses laser light to measure the distance between the sensor and the object. LiDAR is used to create a 3D map of the environment around the vehicle. LiDAR is used for object detection and classification.
+
+- <b>Ultrasonic sensors:</b> Ultrasonic sensors are used to measure the distance between the sensor and the object. Ultrasonic sensors are used for parking assistance and obstacle detection.
+
+- <b>GPS:</b> GPS is used to determine the location of the vehicle. GPS is used for navigation.
+
+- <b>Radar:</b> This sends radio waves to detect objects. It is cheaper than lidar.
+
+
+
+
+
+
+
 
 
