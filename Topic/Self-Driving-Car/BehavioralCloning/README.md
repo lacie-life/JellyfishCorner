@@ -14,4 +14,11 @@ In addition:
 - **05_manual_control_drive.py** uses the network trained to drive Carla, when pressing 'd'.  In its current form, it needs to run from the installation directory of Carla, in PythonAPI/examples
 
 
+## Simulator
+
+- [Link](https://github.com/udacity/self-driving-car-sim)
+
+## Dataset
+
+- [Link](https://drive.google.com/drive/folders/1ykXUJmJBkKNI2Kds8NXSXspmtMWwXpvZ?usp=sharing)
 
